@@ -1,6 +1,6 @@
 # Python_ML_Project_Parkinson_Disease_XGBoost
 
-progress
+#### -- Project Status: [In-progress]
 
 # Detecting Parkinson’s Disease with XGBoost – Objective
 To build a model to accurately detect the presence of Parkinson’s disease in an individual.
